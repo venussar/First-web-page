@@ -30,4 +30,4 @@ The main goal of this project is to provide a complete, static web presence for 
 ## 🧑‍💻 Author
 
 * **Author:** Carolina Andrea Rodas Castañeda
-* **HTML Project Date:** [Insert Date]
+* **HTML Project Date:** [31 de octubre 2025]
