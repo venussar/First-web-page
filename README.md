@@ -1,33 +1,18 @@
-# 💻 CompuVirtual - Static HTML Store Landing Page
+Project Description 
 
-This repository contains the **main landing page** for the CompuVirtual technology store. The project is an exercise in creating a rich, structured, and informative webpage using **pure HTML5**, without external CSS or JavaScript.
+This project is a basic website built with HTML and CSS.
+It includes:
 
----
+A header with the store logo and title
 
-##  Project Goal
+A description of the products and services offered
 
-The main goal of this project is to provide a complete, static web presence for CompuVirtual, clearly presenting:
-* The company's **experience** and **specialization** (computer components and peripherals).
-* A comprehensive **product list**.
-* **Physical store location** and operating hours in Medellín, Colombia.
-* **Direct links** to all external sales channels (Marketplace, Mercado Libre, Rappi) and social media (Instagram, WhatsApp).
+A list of categories sold by the store
 
+A Google Maps embed showing the store location
 
-## 🛠️ Key HTML Features Demonstrated
+A table with team members
 
-| Section | HTML Tags Used | Description |
-| :--- | :--- | :--- |
-| **Header** | `<h1>`, `<img>` | Company name and logo. |
-| **Introduction** | `<p>`, `<mark>`, `<strong>` | Detailed company experience and product focus. |
-| **Product List** | `<ul>`, `<li>` | Comprehensive list of product categories. |
-| **Location** | `<iframe>` | Embed of the store's physical location on a map. |
-| **Multimedia** | `<video>` | Embed of a promotional video. |
-| **Team** | `<table>`, `<th>`, `<tr>`, `<td>` | Structured table presenting the team roles. |
-| **Footer** | `<h2>`, `<a>` | All external links (social media, marketplaces) using `target="_blank"`. |
+A footer with social media links and a promotional video
 
----
-
-## 🧑‍💻 Author
-
-* **Author:** Carolina Andrea Rodas Castañeda
-* **HTML Project Date:** [31 de octubre 2025]
+The website structure is simple and uses only one HTML file (index.html) and one CSS file (estilos.css). There is no JavaScript or external frameworks.
